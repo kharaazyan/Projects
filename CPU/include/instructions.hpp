@@ -1,0 +1,8 @@
+#ifndef INSTRUCTIONS_HPP
+#define INSTRUCTIONS_HPP
+
+enum Instruction {
+    ADD, SUB, MOV, LOAD, STORE, DISC, LAYO, EXIT, INVALID
+};
+
+#endif // INSTRUCTIONS_HPP
