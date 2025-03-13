@@ -1,4 +1,3 @@
-```markdown
 # 🚀 ThreadPool - High-Performance C++ Thread Pool
 
 A robust and efficient thread pool implementation in modern C++ designed to handle concurrent tasks with minimal overhead and maximum performance. This project leverages C++11 features and beyond to provide a flexible, safe, and high-throughput solution for task execution.
@@ -28,7 +27,7 @@ A robust and efficient thread pool implementation in modern C++ designed to hand
 Clone the repository and include `ThreadPool.hpp` in your project:
 
 ```bash
-git clone https://github.com/kharaazyan/Project/ThreadPool.git
+git clone https://github.com/kharaazyan/Projects/tree/main/ThreadPool
 ```
 
 ### Usage Example
