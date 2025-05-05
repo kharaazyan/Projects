@@ -228,7 +228,7 @@ void User::transferMoney() {
 void User::showTransactionHistory() {
     Utility::clearScreen();
     std::cout << "------- LOG HISTORY -------\n";
-    m_log.showLog();
+    m_log.showLog(account->login);
     Utility::anyKey();
 }
 
