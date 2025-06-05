@@ -3,12 +3,14 @@
 [![Gmail API](https://img.shields.io/badge/Gmail%20API-enabled-orange.svg?style=flat-square)](https://developers.google.com/gmail/api)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)]
 [![Coverage Status](https://img.shields.io/badge/coverage-95%25-yellowgreen.svg?style=flat-square)]
-
+```
 # 📧 Gmail Spam Detection with Machine Learning
+```markdown
 
 > **A next-level, end-to-end spam detection pipeline** leveraging Gmail’s API, state-of-the-art NLP preprocessing, and high-performance ML models. This project is designed to **wow** recruiters, security engineers, and data scientists alike—everyone who sees it will immediately recognize it as a production-grade, industrial-strength solution.
-
+```
 ## 🏆 Project Highlights
+```markdown
 
 - **Real-Time Integration**: Fetch and process emails directly from Gmail via OAuth2, ensuring secure, real-time ingestion.  
 - **High-Throughput Data Ingestion**: Batch fetching combined with background worker processes to handle **thousands** of emails per minute.  
@@ -16,10 +18,11 @@
 - **Ensemble ML Models**: Combines Naive Bayes, SVM, and a lightweight Neural Network to optimize precision, recall, and overall F1-score.  
 - **Extensible Modular Design**: Clean separation of concerns—easily swap models, add new preprocessing steps, or plug in alternative data sources.  
 - **Comprehensive Evaluation Suite**: Auto-generated reports, ROC curves, Precision-Recall curves, and detailed confusion matrices to demonstrate robustness.
-
+```
 ---
 
 ## 💡 Why This Project Matters
+```markdown
 
 1. **Email Security Is Non-Negligible**  
    - Spam and phishing attacks remain one of the top vectors for social engineering and malware distribution.  
@@ -34,11 +37,9 @@
    - Encourages experimentation with novel features (e.g., embedding–based similarity checks, URL reputation scoring, and Bayesian spam scoring).
 
 ---
-
-## 🔑 Key Features & Architecture
-
+```
 ### 📂 Project Structure
-
+```markdown
 
 Spam-Detection-with-Gmail/
 ├── data/
