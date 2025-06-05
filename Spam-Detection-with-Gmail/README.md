@@ -8,23 +8,6 @@
 
 > **A next-level, end-to-end spam detection pipeline** leveraging Gmail’s API, state-of-the-art NLP preprocessing, and high-performance ML models. This project is designed to **wow** recruiters, security engineers, and data scientists alike—everyone who sees it will immediately recognize it as a production-grade, industrial-strength solution.
 
----
-
-## 🚀 Table of Contents
-1. [Project Highlights](#project-highlights)  
-2. [Why This Project Matters](#why-this-project-matters)  
-3. [Key Features & Architecture](#key-features--architecture)  
-   - [📂 Project Structure](#project-structure)  
-   - [🧩 Core Components](#core-components)  
-   - [🔍 Data Pipeline](#data-pipeline)  
-4. [📈 Performance & Results](#performance--results)  
-   - [🔢 Confusion Matrix & Metrics](#confusion-matrix--metrics)  
-5. [🛠️ Installation & Quick Start](#installation--quick-start)  
-6. [📌 Future Enhancements](#future-enhancements)  
-7. [🤝 Contributing & Contact](#contributing--contact)  
-
----
-
 ## 🏆 Project Highlights
 
 - **Real-Time Integration**: Fetch and process emails directly from Gmail via OAuth2, ensuring secure, real-time ingestion.  
@@ -55,7 +38,7 @@
 ## 🔑 Key Features & Architecture
 
 ### 📂 Project Structure
-```
+
 
 Spam-Detection-with-Gmail/
 ├── data/
@@ -92,7 +75,7 @@ Spam-Detection-with-Gmail/
 ├── .env.example                   # Environment variable template for local development
 └── README.md                      # Project documentation (you are here)
 
-````
+```
 
 ---
 
